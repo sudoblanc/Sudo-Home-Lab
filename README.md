@@ -22,7 +22,8 @@ https://www.amazon.com/Beelink-SER5-Graphics-Computer-Support/dp/B0C2P486GQ/ref=
 
 
 **Current Progress**
+Week 1
 - Still trying to research more into this
-- 
+- Debating on using proxmox or ubuntu+vmware
 
 
