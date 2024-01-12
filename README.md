@@ -25,6 +25,10 @@ https://www.amazon.com/Beelink-SER5-Graphics-Computer-Support/dp/B0C2P486GQ/ref=
 Week 1
 - Still trying to research more into this
 - Debating on using proxmox or ubuntu+vmware
-- Finding more videos on youtube to learn more 
+- Finding more videos on youtube to learn more
+
+**Major Update**
+With research, i have decided to create a cloud lab environment instead. With other projects in hand, This project is currently inactive, I will keep posting about other major updates 
+
 
 
