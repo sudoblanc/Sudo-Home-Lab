@@ -1,4 +1,4 @@
-# Sudo-s-Home-Lab
+# Sudo's-Home-Lab
 Hello Everyone.
 This is a learning environment project that I have initiated. This was on my mind since I took my windows admin class but due to some commitments and other projects, I couldn't divert my attention fully towards this project. This project delves into topics in active directory and Information technology concepts that are used in managing a small to large scale business or a company. With this project all i want to achieve is more curiosity, more failures that i can learn from and to learn how to solve real world IT problems. 
 
